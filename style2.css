@@ -1,0 +1,27 @@
+h1 {
+    color: blue;
+    background: black;
+    border-radius: 10%;
+    text-align: center;
+}
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background: palegreen;
+}
+
+p{
+    color: red;
+    font-size: 23px;
+}
+h2 {
+    color: blueviolet;
+}
+li{
+    color: blue;
+    font-size: 30px;
+}
+a {
+    color: cyan;
+    background: darkcyan;
+    font-size: 25px;
+}
